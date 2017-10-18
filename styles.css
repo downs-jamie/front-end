@@ -1,5 +1,6 @@
 body{
-    background: url('https://www.walldevil.com/wallpapers/a78/road-forest-tree-sun-light-ray.jpg') no-repeat center;
+    background: url('https://303magazine.com/wp-content/uploads/2017/06/ThinkstockPhotos-624630360.jpg') no-repeat center;
+
 }
 
 h1{
@@ -30,6 +31,7 @@ img{
     
 
 }
+
 
 .white{
     height: 4px;
@@ -72,8 +74,19 @@ img{
     color: black;
     background-color: white;
 }
+.runGa{
+
+    bottom: 100px;
+}
 
 h5{
     margin-top: 25px;
     font-size: 20px;
+}
+.box2{
+    margin: 10px;
+    width: 250px;
+    background-color: white;
+    color: #636363;
+
 }
